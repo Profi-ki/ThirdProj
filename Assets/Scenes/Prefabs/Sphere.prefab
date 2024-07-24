@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5455470577146543940}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.91, y: -10.96, z: -11.43}
-  m_LocalScale: {x: 0.22218, y: 0.22218, z: 0.22218}
+  m_LocalScale: {x: 0.9487975, y: 0.9487975, z: 0.9487975}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

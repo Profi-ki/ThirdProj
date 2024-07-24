@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bullet_Move : MonoBehaviour
 {
-    private int speed = 5;
+    private int speed = 15;
     // Update is called once per frame
     void Update()
     {

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6187064388682786782}
   m_Layer: 0
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.453787, y: -10.792, z: -12.139463}
-  m_LocalScale: {x: 0.19924836, y: 0.19924836, z: 0.19924836}
+  m_LocalScale: {x: 0.8508702, y: 0.8508702, z: 0.8508702}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
